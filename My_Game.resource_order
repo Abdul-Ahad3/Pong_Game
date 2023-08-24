@@ -17,6 +17,7 @@
     {"name":"Particle Systems","order":15,"path":"folders/Particle Systems.yy",},
   ],
   "ResourceOrderSettings": [
+    {"name":"OBall","order":1,"path":"objects/OBall/OBall.yy",},
     {"name":"SBall","order":1,"path":"sprites/SBall/SBall.yy",},
   ],
 }
