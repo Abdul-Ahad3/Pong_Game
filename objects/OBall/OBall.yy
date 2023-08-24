@@ -25,7 +25,10 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": null,
+  "spriteId": {
+    "name": "SBall",
+    "path": "sprites/SBall/SBall.yy",
+  },
   "spriteMaskId": null,
   "visible": true,
 }
