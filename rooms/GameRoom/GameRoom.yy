@@ -1,15 +1,15 @@
 {
   "resourceType": "GMRoom",
   "resourceVersion": "1.0",
-  "name": "Room1",
+  "name": "GameRoom",
   "creationCodeFile": "",
   "inheritCode": false,
   "inheritCreationOrder": false,
   "inheritLayers": false,
   "instanceCreationOrder": [
-    {"name":"inst_28EF52B2","path":"rooms/Room1/Room1.yy",},
-    {"name":"inst_3F7D07C3","path":"rooms/Room1/Room1.yy",},
-    {"name":"inst_57E6EABD","path":"rooms/Room1/Room1.yy",},
+    {"name":"inst_28EF52B2","path":"rooms/GameRoom/GameRoom.yy",},
+    {"name":"inst_3F7D07C3","path":"rooms/GameRoom/GameRoom.yy",},
+    {"name":"inst_57E6EABD","path":"rooms/GameRoom/GameRoom.yy",},
   ],
   "isDnd": false,
   "layers": [

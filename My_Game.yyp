@@ -43,11 +43,11 @@
     {"id":{"name":"STitle","path":"sprites/STitle/STitle.yy",},},
     {"id":{"name":"SBall","path":"sprites/SBall/SBall.yy",},},
     {"id":{"name":"SPlayer","path":"sprites/SPlayer/SPlayer.yy",},},
-    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"GameRoom","path":"rooms/GameRoom/GameRoom.yy",},},
   ],
   "RoomOrderNodes": [
     {"roomId":{"name":"Intro","path":"rooms/Intro/Intro.yy",},},
-    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"GameRoom","path":"rooms/GameRoom/GameRoom.yy",},},
   ],
   "templateType": null,
   "TextureGroups": [
