@@ -34,16 +34,20 @@
     "IDEVersion": "2023.11.1.129",
   },
   "resources": [
+    {"id":{"name":"SButton","path":"sprites/SButton/SButton.yy",},},
     {"id":{"name":"OBall","path":"objects/OBall/OBall.yy",},},
+    {"id":{"name":"OTitle","path":"objects/OTitle/OTitle.yy",},},
     {"id":{"name":"Intro","path":"rooms/Intro/Intro.yy",},},
     {"id":{"name":"OPlayer","path":"objects/OPlayer/OPlayer.yy",},},
+    {"id":{"name":"OButtun","path":"objects/OButtun/OButtun.yy",},},
+    {"id":{"name":"STitle","path":"sprites/STitle/STitle.yy",},},
     {"id":{"name":"SBall","path":"sprites/SBall/SBall.yy",},},
     {"id":{"name":"SPlayer","path":"sprites/SPlayer/SPlayer.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
   "RoomOrderNodes": [
-    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"roomId":{"name":"Intro","path":"rooms/Intro/Intro.yy",},},
+    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
   "templateType": null,
   "TextureGroups": [

@@ -17,8 +17,12 @@
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
   ],
   "ResourceOrderSettings": [
+    {"name":"SButton","order":2,"path":"sprites/SButton/SButton.yy",},
     {"name":"OBall","order":1,"path":"objects/OBall/OBall.yy",},
+    {"name":"OTitle","order":3,"path":"objects/OTitle/OTitle.yy",},
     {"name":"Intro","order":1,"path":"rooms/Intro/Intro.yy",},
+    {"name":"OButtun","order":2,"path":"objects/OButtun/OButtun.yy",},
+    {"name":"STitle","order":3,"path":"sprites/STitle/STitle.yy",},
     {"name":"SBall","order":1,"path":"sprites/SBall/SBall.yy",},
   ],
 }
