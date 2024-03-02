@@ -1,15 +1,15 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "OSkins",
+  "name": "OSK_Parent",
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":false,},
   ],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "SkinButtons",
+    "path": "folders/Objects/SkinButtons.yy",
   },
   "parentObjectId": null,
   "persistent": false,
@@ -25,12 +25,11 @@
   "physicsShape": 1,
   "physicsShapePoints": [],
   "physicsStartAwake": true,
-  "properties": [],
+  "properties": [
+    {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"SkinName","filters":[],"listItems":[],"multiselect":false,"rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"value":"SSkin1","varType":5,},
+  ],
   "solid": false,
-  "spriteId": {
-    "name": "SSkins",
-    "path": "sprites/SSkins/SSkins.yy",
-  },
+  "spriteId": null,
   "spriteMaskId": null,
   "visible": true,
 }
