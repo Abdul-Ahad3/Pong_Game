@@ -31,8 +31,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "SBall",
-    "path": "sprites/SBall/SBall.yy",
+    "name": "SSkin1",
+    "path": "sprites/SSkin1/SSkin1.yy",
   },
   "spriteMaskId": null,
   "visible": true,
